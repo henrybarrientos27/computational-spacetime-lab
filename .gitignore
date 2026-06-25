@@ -1,0 +1,17 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Outputs
+outputs/
+artifacts/
+*.log
+*.jsonl
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

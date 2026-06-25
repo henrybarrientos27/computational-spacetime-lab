@@ -1,0 +1,6 @@
+frequency_hz,amplitude,baseline_response
+10,0.2,1.00
+20,0.4,1.10
+30,0.6,1.35
+40,0.8,1.90
+50,1.0,2.80
