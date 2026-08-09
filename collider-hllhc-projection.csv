@@ -1,0 +1,13 @@
+dimensions,scenario,target_luminosity_fb,projected_expected_md_tev,template_extrapolated
+2,statistics-like covariance,3000,18.37358,true
+2,fixed fractional background uncertainty,3000,14.08498,true
+3,statistics-like covariance,3000,12.40259,true
+3,fixed fractional background uncertainty,3000,10.09954,false
+4,statistics-like covariance,3000,9.65202,true
+4,fixed fractional background uncertainty,3000,8.11197,false
+5,statistics-like covariance,3000,8.20386,true
+5,fixed fractional background uncertainty,3000,7.10924,true
+6,statistics-like covariance,3000,7.30372,true
+6,fixed fractional background uncertainty,3000,6.41497,false
+7,statistics-like covariance,3000,6.67136,false
+7,fixed fractional background uncertainty,3000,5.76088,false

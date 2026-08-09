@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this repository."
+title: "Computational Spacetime Lab"
+type: software
+version: 1.0.0
+date-released: 2026-08-09
+authors:
+  - family-names: Barrientos
+    given-names: Henry
+license: MIT
+repository-code: "https://github.com/henrybarrientos27/computational-spacetime-lab"
+abstract: "Auditable numerical models for relativistic travel, exotic-energy bounds, collider constraints, hidden-neutron transfer, and beamline realism."
