@@ -1,0 +1,1959 @@
+{
+  "associated_files": [],
+  "description": "Background prediction and observed data yields in the signal region bins. The background yields are obtained from the background-only fit to the corresponding control regions, and serve as input to the simplified likelihood reinterpretation scheme.",
+  "doi": "10.17182/hepdata.106115.v2/t15",
+  "headers": [
+    {
+      "colspan": 1,
+      "name": "Bin"
+    },
+    {
+      "colspan": 1,
+      "name": "Background yield"
+    },
+    {
+      "colspan": 1,
+      "name": "Data yield"
+    }
+  ],
+  "keywords": {
+    "cmenergies": [
+      "13000.0"
+    ]
+  },
+  "location": "Supplementary material",
+  "name": "Simplified likelihood: Yields (Monojet)",
+  "qualifier_order": [],
+  "qualifiers": {},
+  "related_tables": [],
+  "related_to_this": [],
+  "resources": [],
+  "review": {
+    "messages": false,
+    "review_flag": "passed"
+  },
+  "size": 4664,
+  "size_check": true,
+  "table_license": {
+    "description": "CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.",
+    "name": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "values": [
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin0"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "135004.8633"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "136865"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin1"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "73681.17188"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "74340"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin2"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "42448.17627"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "42540"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin3"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "25541.23718"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "25316"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin4"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "15454.10522"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "15653"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin5"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "10162.67578"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "10092"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin6"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "8473.070068"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "8298"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin7"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "4853.264771"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "4906"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin8"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "2960.103455"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "2987"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin9"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "1906.687012"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "2032"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin10"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "1498.361874"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "1514"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin11"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "839.2151833"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "926"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin12"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "523.393774"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "557"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin13"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "322.8404999"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "316"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin14"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "221.0696697"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "233"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin15"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "167.221384"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "172"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin16"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "106.2168646"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "101"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin17"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "87.38325834"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "65"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin18"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "52.36919761"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "46"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin19"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "24.69706476"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "26"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin20"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "25.22828668"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "31"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2016_bin21"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "26.60783306"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "29"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin0"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "169737.7734"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "176171"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin1"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "93266.63818"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "96067"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin2"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "54175.54321"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "54789"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin3"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "32232.16919"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "32767"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin4"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "19798.24585"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "20209"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin5"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "12816.66046"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "12910"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin6"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "10626.91895"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "10653"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin7"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "6407.873535"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "6487"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin8"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "3903.657227"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "3955"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin9"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "2519.861908"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "2587"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin10"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "1929.788399"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "1957"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin11"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "1181.808949"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "1151"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin12"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "713.7919903"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "721"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin13"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "456.2266827"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "455"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin14"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "294.6278095"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "298"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin15"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "231.1669064"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "244"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin16"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "146.4085865"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "146"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin17"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "87.26129293"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "89"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin18"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "69.26482379"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "65"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin19"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "32.26833493"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "39"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin20"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "30.64801991"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "35"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2017_bin21"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "37.35177219"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "40"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin0"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "178470.1172"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "191829"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin1"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "97428.42041"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "104522"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin2"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "55592.1936"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "59398"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin3"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "33037.12646"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "35833"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin4"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "20714.72168"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "21854"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin5"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "13209.00696"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "14266"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin6"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "10991.22192"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "11730"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin7"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "7836.975708"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "8639"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin8"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "4914.64386"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "5406"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin9"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "3065.690918"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "3285"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin10"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "2428.390121"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "2671"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin11"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "1441.82806"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "1613"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin12"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "903.5198212"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "965"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin13"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "603.2915592"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "640"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin14"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "385.5468988"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "424"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin15"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "271.7485714"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "319"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin16"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "176.4562798"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "191"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin17"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "117.7774644"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "117"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin18"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "75.91881871"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "96"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin19"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "48.49774301"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "55"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin20"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "35.87580353"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "43"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "monojet_2018_bin21"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "53.36183757"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "70"
+        }
+      ]
+    }
+  ],
+  "x_count": 1
+}

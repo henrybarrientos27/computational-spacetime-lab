@@ -1,0 +1,536 @@
+{
+  "associated_files": [
+    {
+      "alt_location": "/opt/hepdata/var/data/50/106115/1641890194/submission.tar/md_with2016.png",
+      "description": "Image file",
+      "id": 2796776,
+      "preview_location": "/record/resource/2796777?view=true",
+      "type": "png"
+    }
+  ],
+  "description": "Exclusion limits on the fundamental Planck scale $M_{D}$ as a function of the number of extra dimensions $d$.",
+  "doi": "10.17182/hepdata.106115.v2/t50",
+  "headers": [
+    {
+      "colspan": 1,
+      "name": "d"
+    },
+    {
+      "colspan": 6,
+      "name": "Lower limit on $M_{D} [TeV]"
+    }
+  ],
+  "keywords": {
+    "cmenergies": [
+      "13000.0"
+    ],
+    "observables": [
+      "CLS",
+      "SIG"
+    ],
+    "phrases": [
+      "ADD",
+      "Extra dimensions",
+      "Graviton"
+    ],
+    "reactions": [
+      "P P --> INVISIBLE JET"
+    ]
+  },
+  "location": "Data from Fig. 10",
+  "name": "ADD $M_{D}$ limits",
+  "qualifier_order": [
+    "Quantile",
+    "Integrated luminosity"
+  ],
+  "qualifiers": {
+    "Integrated luminosity": [
+      {
+        "colspan": 6,
+        "group": 0,
+        "type": "Integrated luminosity",
+        "value": "137 fb$^{-1}$"
+      }
+    ],
+    "Quantile": [
+      {
+        "colspan": 1,
+        "group": 0,
+        "type": "Quantile",
+        "value": "Median Expected"
+      },
+      {
+        "colspan": 1,
+        "group": 1,
+        "type": "Quantile",
+        "value": "Observed"
+      },
+      {
+        "colspan": 1,
+        "group": 2,
+        "type": "Quantile",
+        "value": "Expected plus 1 s.d."
+      },
+      {
+        "colspan": 1,
+        "group": 3,
+        "type": "Quantile",
+        "value": "Expected minus 1 s.d."
+      },
+      {
+        "colspan": 1,
+        "group": 4,
+        "type": "Quantile",
+        "value": "Expected plus 2 s.d."
+      },
+      {
+        "colspan": 1,
+        "group": 5,
+        "type": "Quantile",
+        "value": "Expected minus 2 s.d."
+      }
+    ]
+  },
+  "related_tables": [],
+  "related_to_this": [],
+  "resources": [
+    {
+      "description": "Image file",
+      "type": "png",
+      "url": "https://www.hepdata.net/record/resource/2796776?landing_page=true"
+    },
+    {
+      "description": "Thumbnail image file",
+      "type": "png",
+      "url": "https://www.hepdata.net/record/resource/2796777?landing_page=true"
+    }
+  ],
+  "review": {
+    "messages": false,
+    "review_flag": "passed"
+  },
+  "size": 1985,
+  "size_check": true,
+  "table_license": {
+    "description": "CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.",
+    "name": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "values": [
+    {
+      "x": [
+        {
+          "value": "2"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "12.188"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "10.692"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 2,
+          "value": "11.243"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 3,
+          "value": "13.078"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 4,
+          "value": "10.341"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 5,
+          "value": "13.838"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "3"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "9.0221"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "8.0353"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 2,
+          "value": "8.3634"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 3,
+          "value": "9.6789"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 4,
+          "value": "7.7893"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 5,
+          "value": "10.262"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "4"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "7.4084"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "6.7477"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 2,
+          "value": "6.9356"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 3,
+          "value": "7.8711"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 4,
+          "value": "6.5635"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 5,
+          "value": "8.2657"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "5"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "6.5468"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "6.0048"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 2,
+          "value": "6.2018"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 3,
+          "value": "6.8719"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 4,
+          "value": "5.8829"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 5,
+          "value": "7.1511"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "6"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "5.9384"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "5.5009"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 2,
+          "value": "5.6509"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 3,
+          "value": "6.2278"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 4,
+          "value": "5.3795"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 5,
+          "value": "6.4806"
+        }
+      ]
+    },
+    {
+      "x": [
+        {
+          "value": "7"
+        }
+      ],
+      "y": [
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 0,
+          "value": "5.5523"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 1,
+          "value": "5.159"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 2,
+          "value": "5.2923"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 3,
+          "value": "5.799"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 4,
+          "value": "5.0467"
+        },
+        {
+          "errors": [
+            {
+              "hide": true,
+              "symerror": 0
+            }
+          ],
+          "group": 5,
+          "value": "6.0114"
+        }
+      ]
+    }
+  ],
+  "x_count": 1
+}
