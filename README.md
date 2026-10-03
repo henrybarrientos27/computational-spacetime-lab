@@ -27,6 +27,15 @@ The lab contains these calculations:
 - A beamline engineering audit with velocity spread, magnetic-field
   nonuniformity, neutron decay, and gravitational aperture.
 
+## Reader's guide
+
+Start with [FINDINGS.md](FINDINGS.md), then choose the matching model and test
+file. [COLLIDER-SEARCH-REPORT.md](COLLIDER-SEARCH-REPORT.md) distinguishes the
+official-data reinterpretation from the toy spacetime models. CSV sweeps are
+model outputs under their stated assumptions, not experimental detections.
+For a reproducibility issue, include the command, commit, parameters, and
+expected units; preserve the original negative results.
+
 ## Run it
 
 Python 3.10 or newer is recommended. Install the one numerical dependency
